@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate junior frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **NeatNest**
-
 - 🌱 I’m currently learning **React, NodeJS**
 
 - 👨‍💻 All of my UX projects are available at [https://andreagomezalvarez.framer.website/](https://andreagomezalvarez.framer.website/)
